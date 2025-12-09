@@ -111,13 +111,6 @@ Based on the analysis here are some recommendation for  company that can help th
 
 ---
 
-## 🔗 Connect With Me 
-
-- **Author:** Ayush Lohat
-- **Linkdin:** www.linkedin.com/in/ayush-lohat-463187381
-- **GitHub:** https://github.com/ayush-data-17
-
----
 
 ✨ *Thank you for exploring this project! Your feedback and suggestion are always welcome .*
 
